@@ -167,6 +167,7 @@ model_cache/
 
 # Ignore Chroma vector database
 vector_db/
+vector_db_fga/
 products_vectorstore/
 
 # And ignore any pickle files made during the course
